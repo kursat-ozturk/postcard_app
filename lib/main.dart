@@ -4,7 +4,7 @@ void main() {
   runApp(MaterialApp(
     home: SafeArea(
       child: Scaffold(
-        backgroundColor: const Color(0xffD7E0FF), //#D7E0FF
+        backgroundColor: const Color(0xffd7e0ff), //#D7E0FF
         appBar: AppBar(
           centerTitle: true,
           backgroundColor: Colors.blueGrey.shade800,
